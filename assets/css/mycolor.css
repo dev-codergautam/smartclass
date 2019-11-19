@@ -1,0 +1,63 @@
+.app-header,
+.app-sidebar__toggle:focus,
+.app-sidebar__toggle:hover,
+.btn-primary {
+    background-color: #227093 !important;
+    border-color: #003d58;
+}
+
+.app-header__logo,
+.treeview-item.active,
+.treeview-item:focus,
+.treeview-item:hover {
+    background: #004f72 !important;
+}
+
+.app-sidebar__toggle:focus,
+.app-sidebar__toggle:hover {
+    background-color: #003d58 !important;
+}
+
+.app-menu__item.active,
+.app-menu__item:focus,
+.app-menu__item:hover {
+    background: #227093;
+    border-left-color: #004f72
+}
+
+.treeview.is-expanded [data-toggle=treeview] {
+    border-left-color: #004f72 !important;
+    background: #003d58 !important
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show > .btn-primary.dropdown-toggle {
+    color: #FFF;
+    background-color: #227093 !important;
+    border-color: #004f72 !important
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+    color: #FFF;
+    text-decoration: none;
+    background-color: #05587e;
+}
+
+.text-primary {
+    color: #003d58 !important;
+}
+
+.list-group-item.active {
+    background-color: #227093 !important;
+}
+
+.material-half-bg .cover {
+    background-color: #227093 !important;
+}
+
+.btn-primary {
+    background-color: #227093 !important;
+    border-color: #003d58 !important;
+}
